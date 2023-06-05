@@ -1,0 +1,4 @@
+Container component:
+	-given width and height
+	-given type
+	-Moveable
